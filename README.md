@@ -23,8 +23,14 @@ This Place Introduction Page enhances the user experience by providing comprehen
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this Flutter app on your local machine, follow these steps:
 
+1. Make sure you have Flutter installed. If not, you can install it by following the instructions on the [Flutter website](https://flutter.dev/docs/get-started/install).
+
+2. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/ftmhosseini/second_app.git
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
